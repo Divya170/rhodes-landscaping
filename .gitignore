@@ -1,0 +1,8 @@
+node_modules
+database/*.sqlite
+.env
+.env.local
+backend/dist
+backend/uploads
+backend/private-uploads
+frontend/.next
